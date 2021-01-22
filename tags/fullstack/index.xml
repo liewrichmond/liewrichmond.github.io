@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fullstack on Malaysian Sensation</title>
+    <link>https://liewrichmond.github.io/tags/fullstack/</link>
+    <description>Recent content in fullstack on Malaysian Sensation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://liewrichmond.github.io/tags/fullstack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReturnMe</title>
+      <link>https://liewrichmond.github.io/projects/returnme/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://liewrichmond.github.io/projects/returnme/</guid>
+      <description>&lt;p&gt;tl;dr: Young immigrant entrepreneur created a returns pickup service that disrupts the industry! &lt;a href=&#34;https://github.com/liewrichmond/returnMe&#34;&gt;Source&lt;/a&gt; | &lt;a href=&#34;https://nameless-taiga-55837.herokuapp.com/landing&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

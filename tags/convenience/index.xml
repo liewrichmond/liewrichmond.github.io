@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>convenience on Malaysian Sensation</title>
+    <link>https://liewrichmond.github.io/tags/convenience/</link>
+    <description>Recent content in convenience on Malaysian Sensation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://liewrichmond.github.io/tags/convenience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyCollect</title>
+      <link>https://liewrichmond.github.io/projects/pycollect/</link>
+      <pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://liewrichmond.github.io/projects/pycollect/</guid>
+      <description>&lt;p&gt;tl;dr: Like a true engineur, I spent many hours automating something that could&amp;rsquo;ve been done manually in 5 mins. &lt;a href=&#34;https://github.com/liewrichmond/pyCollect2.0&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
